@@ -1,9 +1,9 @@
 .Loading-header {
     background-color: #000000;
-    background-image: url('../../assets/img/foad_logo.jpg');
+    background-image: url('../../assets/img/logo-white.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size: 600px;
     min-height: 100vh;
     display: flex;
     flex-direction: column;

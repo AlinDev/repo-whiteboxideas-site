@@ -16,10 +16,10 @@ class Loading extends Component {
     //--Motasim Foads Portfolio website Google analytics--
     //--Replace with your own key !!
     ReactGA.initialize("UA-154721739-1");
-    ReactGA.pageview('motasimfoad.com - Loading Screen');
+    ReactGA.pageview('whiteboxideas.com - Loading Screen');
     //--Motasim Foads Portfolio website Google analytics--
   }
-    
+
   componentWillUnmount() {
     clearTimeout(this.id)
   }
@@ -30,9 +30,9 @@ class Loading extends Component {
       : <div>
          <Helmet>
                 <meta charSet="utf-8" />
-                <title>Motasim Foad</title>
-                <link rel="canonical" href="http://motasimfoad.com/" />
-                <meta name="description" content="Motasim Foad - Product Manager | Project Manager | Software Engineer" />
+                <title>White Box Ideas</title>
+                <link rel="canonical" href="http://whiteboxideas.com/" />
+                <meta name="description" content="WhiteBoxIdeas White Box Ideas S.R.L Bogdan Alin Anton React Native" />
          </Helmet>
         <div className="Loading-header">
           <PuffLoader
