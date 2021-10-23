@@ -13,7 +13,7 @@ import cv4 from '../../assets/img/cv4.png';
 import Lightbox from 'react-image-lightbox';
 import {Modal, Button} from 'react-bootstrap';
 import Projects from '../projects';
-import {Link, useHistory} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 
 const images = [
   cv1,cv2,cv3,cv4
@@ -48,7 +48,7 @@ class CLC extends Component {
   render(){
     const { photoIndex, isOpen, show } = this.state;
     return (
-      <Slide left > 
+      <Slide left >
         <Bounce >
           <div className="clc_main">
           <div className="clc_container">
@@ -95,7 +95,7 @@ class CLC extends Component {
    );
   }
 
-  
+
 }
 
 export default CLC;

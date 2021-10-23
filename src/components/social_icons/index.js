@@ -6,11 +6,7 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
     faFacebook,
-    faTwitter,
     faInstagram,
-    faGithub,
-    faLinkedin,
-    faMailchimp
 } from '@fortawesome/free-brands-svg-icons'
 
 import {faEnvelope} from '@fortawesome/free-solid-svg-icons'
