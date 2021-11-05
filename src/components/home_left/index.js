@@ -24,7 +24,7 @@ import {
          </h2>
          <h3>
          <ReactTypingEffect
-           text="React Native || Fujifilm Photographer ... " //text=["Hello.", "World!"]
+           text="React Native | Blockchain Consultant | Fujifilm Photographer ... " //text=["Hello.", "World!"]
            className="typical"
            speed="100"
            eraseDelay="500000"

@@ -30,7 +30,7 @@ function Home() {
                   <meta charSet="utf-8" />
                   <title>WHITE BOX IDEAS</title>
                   <link rel="canonical" href="http://whiteboxideas.com"/>
-                  <meta name="description" content="Whiteboxideas | Home - Product Manager | Project Manager | Software Engineer" />
+                  <meta name="description" content="Whiteboxideas | Home - Product Manager | Project Manager | Software Engineer | Crypto Consultant | Blockchain Advisor" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
             <Particles
